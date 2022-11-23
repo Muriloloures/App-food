@@ -1,6 +1,3 @@
-![Logo of the project](https://github.com/Muriloloures/projeto-intro-web/blob/main/img/logo.svg)
-
-
 ## Site de delivery de comida
 Este site é baseado em um aplicativo de fast-food.
 
@@ -18,7 +15,7 @@ Aqui estão as tecnologias usadas nesse projeto.
 
 ### 2 - E aqui você pode ver que cada pedido feito vai para o seu carrinho, tendo a possibilidade de você acrescentar ou remover cada item.
 
-![Posts](https://github.com/Muriloloures/projeto-intro-web/blob/main/readme-photos/app-e-items-da-loja.png)
+![Posts](https://github.com/Muriloloures/App-food/blob/master/readme-prints/car.png)
 
 ## Links
   - Deploy: 
