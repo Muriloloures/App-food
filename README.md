@@ -18,7 +18,6 @@ Aqui estão as tecnologias usadas nesse projeto.
 ![Posts](https://github.com/Muriloloures/App-food/blob/master/readme-prints/car.png)
 
 ## Links
-  - Deploy: 
   - Repositorio: https://github.com/Muriloloures/App-food
     - Em caso de bugs ou qualquer outro problema por favor, contate-me
       murilomlssloures@outlook.com. Eu valorizo o seu esforço para melhorar a qualidade e segurança deste projeto!
